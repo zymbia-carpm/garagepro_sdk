@@ -1,3 +1,0 @@
-install: 
- - FILE="-Dfile=garageprosdk-0.0.5.aar" 
- - mvn install:install-file $FILE -DgroupId=com.zymbia -DartifactId=garageprosdk -Dversion=0.0.5 -Dpackaging=aar -DpomFile=garageprosdk-0.0.5.pom
