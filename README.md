@@ -12,5 +12,5 @@ Added feature - Live Data in any vehicle
 ### Version 15 (0.1.5)
 Fixed live data bugs and tata decoding
 
-### Version 16 (0.1.6)
+### Version 17 (0.1.7)
 Added feature - Module wise Read Fault Codes and Clear Fault Codes
