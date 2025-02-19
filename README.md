@@ -14,3 +14,6 @@ Fixed live data bugs and tata decoding
 
 ### Version 17 (0.1.7)
 Added feature - Module wise Read Fault Codes and Clear Fault Codes
+
+### Version 19 (0.1.9)
+Added feature - Vin Check feature, can be run before scan, clear or live scan
