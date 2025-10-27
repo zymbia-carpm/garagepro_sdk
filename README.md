@@ -17,3 +17,12 @@ Added feature - Module wise Read Fault Codes and Clear Fault Codes
 
 ### Version 19 (0.1.9)
 Added feature - Vin Check feature, can be run before scan, clear or live scan
+
+### Version 21 (0.2.1)
+Added feature - Added differentiation in Basic Live Data commands and Advanced Live Data commands. Now user has to select either basic or advanced commands to run.
+
+### Version 22 (0.2.2)
+Added feature - Added battery voltage command in live scan and in all module scan
+
+### Version 24 (0.2.4)
+Added feature - Added selectScanner() function to manually select the scanner
