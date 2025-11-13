@@ -26,3 +26,7 @@ Added feature - Added battery voltage command in live scan and in all module sca
 
 ### Version 24 (0.2.4)
 Added feature - Added selectScanner() function to manually select the scanner
+
+### Version 25 (0.2.5)
+Added feature - Auto detect ECU for heavy commercial vehicles in Live Data scan
+
