@@ -38,3 +38,6 @@ Live data basic command headers issue fixed.
 Added feature - Client-managed connection (BYO connection) mode: the host app handles Bluetooth permissions, scanning, pairing and the connection (BLE GATT or classic), and hands it to the SDK via the new GProDeviceConnection. All flows (VIN, scan, clear, live scan) supported with no SDK dialogs - every result/failure arrives via callbacks. Requires the master credentials issued for this integration.
 Added feature - Per-module completion callback (GProModuleScanListener) with locally decoded fault codes (Current/Pending/History, warning-light flag) and vehicle-level MIL ON/OFF - available in both connection modes.
 Security - The SDK artifact is now fully obfuscated (R8).
+
+### Version 29 (0.3.2)
+See https://github.com/zymbia-carpm/garagepro_sdk/releases/tag/v0.3.2
