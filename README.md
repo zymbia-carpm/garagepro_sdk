@@ -41,3 +41,6 @@ Security - The SDK artifact is now fully obfuscated (R8).
 
 ### Version 29 (0.3.2)
 See https://github.com/zymbia-carpm/garagepro_sdk/releases/tag/v0.3.2
+
+### Version 30 (0.3.3)
+See https://github.com/zymbia-carpm/garagepro_sdk/releases/tag/v0.3.3
