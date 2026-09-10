@@ -92,3 +92,6 @@ See https://github.com/zymbia-carpm/garagepro_sdk/releases/tag/v0.6.8
 
 ### Version 46 (0.6.9)
 See https://github.com/zymbia-carpm/garagepro_sdk/releases/tag/v0.6.9
+
+### Version 47 (0.7.0)
+See https://github.com/zymbia-carpm/garagepro_sdk/releases/tag/v0.7.0
