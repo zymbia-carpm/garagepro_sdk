@@ -128,3 +128,6 @@ See https://github.com/zymbia-carpm/garagepro_sdk/releases/tag/v0.9.2
 
 ### Version 58 (0.10.0)
 See https://github.com/zymbia-carpm/garagepro_sdk/releases/tag/v0.10.0
+
+### Version 59 (0.10.1)
+See https://github.com/zymbia-carpm/garagepro_sdk/releases/tag/v0.10.1
